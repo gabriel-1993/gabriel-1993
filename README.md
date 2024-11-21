@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-😊 ¡Hola! me llamo Gabriel <br>🔭 Actualmente estoy estudiando  Tec. Desarrollo de Software<br>🎓 También realice un curso en Front End  <br>🔧 Habilidades: HTML, CSS, JS, NODE-JS, PUG, Java:GUI, POO, C++, .NET, Android(Java), Git, GitHub y MySQL .<br>💡 Estoy buscando mi primer empleo IT<br> <br>📎 Linkedin : www.linkedin.com/in/gabriel-torrez-330273238<br>💼 Portfolio : https://portfolio-gabriel-torrez.vercel.app/<br><br> ⚡  Estoy en constante aprendizaje para lograr conseguir las habilidades necesarias... que pueda necesitar como programador en mi primer empleo como desarrollador.<br>     Si tiene alguna pregunta o algún comentario no dude en contactarme. 
+¡Hola! me llamo Gabriel <br>🔭 Actualmente estoy estudiando  Tec. Desarrollo de Software<br>🎓 También realice un curso en Front End  <br>🔧 Habilidades: HTML, CSS, JS, NODE-JS, PUG, Java:GUI, POO, C++, .NET, Android(Java), Git, GitHub y MySQL .<br>💡 Estoy buscando mi primer empleo IT<br> <br>📎 Linkedin : www.linkedin.com/in/gabriel-torrez-330273238<br>💼 Portfolio : https://portfolio-gabriel-torrez.vercel.app/<br><br> ⚡ Estoy en constante aprendizaje para lograr conseguir las habilidades necesarias como programador.<br>     Si tiene alguna pregunta o algún comentario no dude en contactarme. 
 <br> ✌️  Saludos!
 
 
